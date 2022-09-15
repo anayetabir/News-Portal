@@ -193,3 +193,11 @@ button {
     flex-direction: column;
   }
 }
+
+/* @media only screen and (max-width:1200px) {
+  .card {
+    display: flex;
+  }
+
+
+} */
